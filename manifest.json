@@ -1,0 +1,22 @@
+{
+  "name": "نظام تحضير حلقات ما بعد الفجر",
+  "short_name": "حلقات الفجر",
+  "description": "إدارة وتوثيق الحضور والغياب لحلقات ما بعد الفجر على مدار السنة",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
